@@ -1,1 +1,3 @@
 hello this is text file
+yes this is a text file 
+i added two lines ni this file
